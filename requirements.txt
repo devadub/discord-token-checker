@@ -1,0 +1,4 @@
+tls-client>=0.1.8
+requests>=2.31.0
+colorama>=0.4.6
+urllib3>=2.0.0

@@ -1,0 +1,6 @@
+{
+    "proxy_mode": false,
+    "thread_count": 10,
+    "timeout": 10,
+    "remove_bad_tokens_from_input": false
+}
